@@ -11,6 +11,10 @@ The system predicts emotions separately from face and audio, and then combines t
 - Multimodal fusion of predictions  
 - Interactive UI using Gradio  
 
+## Dataset Link
+Dataset link: https://www.kaggle.com/datasets/uwrfkaggler/ravdess-facial-landmark-tracking
+Dataset link: https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio
+
 ## How to Run in Google Colab
 
 ### Step 1: Open Notebook
